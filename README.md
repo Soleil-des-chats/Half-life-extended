@@ -4,9 +4,6 @@
 A re-upload of mittorn's [Emscripten](http://kripken.github.io/emscripten-site/) port of the [Xash3D](https://github.com/FWGS/xash3d) engine, that can run Half-Life: Uplink, Half-Life: Deathmatch, Half-Life: Day One and the Hazard Course right off the bat, within your web browser.
 
 And now you can fork the code and make your own changes, without the hassle of downloading all the files using [wget](http://gnuwin32.sourceforge.net/packages/wget.htm)!
-
-### [Click here to launch Xash3D in your browser!](https://icrazyblaze.github.io/Xash3D-Emscripten/xash-intro.html)
-
 # Requirements / recommended specs
 This app runs best in [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/).
 
