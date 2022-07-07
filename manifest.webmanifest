@@ -1,0 +1,32 @@
+{
+  // Required
+  "name": "Half-Life",
+  "version": "versionString",
+
+  // Recommended
+  "description": "Half-Life For ChromeOS",
+  "icons": { ... },
+  "default_locale": "en",
+
+  // Pick one (or none)
+  "browser_action": {...},
+  "page_action": {...},
+  "theme": {...},
+  "app": {https://soleil-des-chats.github.io/half-life-extended/xash-test-offline.html},
+
+  // Add any of these that you need
+  "chrome_url_overrides": {...},
+  "content_scripts": [...],
+  "homepage_url": "https://soleil-des-chats.github.io/half-life-extended/xash-test-offline.html",
+  "incognito": "spanning" or "split",
+  "key": "publicKey",
+  "minimum_chrome_version": "versionString",
+  "omnibox": { "keyword" : "aString" },
+  "options_page": "https://soleil-des-chats.github.io/half-life-extended/xash-test-offline.html",
+"permissions": [
+  "tabs",
+  "bookmarks",
+  "unlimitedStorage"
+],
+  "plugins": [...],
+}
