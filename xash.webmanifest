@@ -3,7 +3,7 @@
   "short_name": "Half-Life",
   "display": "standalone",
   "background_color": "#555555",
-  "description": "Half-Life For Chrome OS,
+  "description": "Half-Life For Chrome OS",
   "icons": [{
     "src": "icon.png",
     "sizes": "57x57",
