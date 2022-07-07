@@ -1,9 +1,9 @@
 {
-  "name": "Xash3D",
-  "short_name": "Xash3D",
+  "name": "Half-Life",
+  "short_name": "Half-Life",
   "display": "standalone",
   "background_color": "#555555",
-  "description": "Xash3D Emscripten port",
+  "description": "Half-Life For Chrome OS,
   "icons": [{
     "src": "icon.png",
     "sizes": "57x57",
